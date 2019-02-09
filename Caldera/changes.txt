@@ -1,0 +1,23 @@
+Edited files:
+  index.html
+  archive.html
+  caldera.html
+  cda.php
+  counter.php
+
+Changes:
+1. "Latest Page" button in header for all pages links changed to 'cda.php?=latest'
+
+2. index.html "Latest" button link changed to 'cda.php?=latest'
+
+3. Replaced cda1.html, cdan.html, etc with single php page.
+
+4. Added a counter.php file to store a count of how many comics there are.
+
+5. caldera.html changed to caldera.php, which auto-generates archive links.
+
+
+To update the comic:
+1. Put a new comic .png into the pages folder.
+2. Put a new counter .gif into the images folder.
+3. Update counter.php with the number of the current comic.

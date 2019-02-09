@@ -1,0 +1,66 @@
+#Container {
+	width:1280px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Header {
+	height:250px;
+	background-color:#f7e8d9;
+}
+#Menu {
+	height:50px;
+	background-color:#ab8983;
+}
+#Homebutton {
+	float:left;
+	margin-left:239px;
+	height:auto;
+	width:129px;
+}
+#Latestpagebutton {
+	float:left;
+	margin-left:25px;
+	height:auto;
+	width:271px;
+}
+#Archivebutton {
+	float:left;
+	margin-left:25px;
+	height:auto;
+	width:190px;
+}
+#Linksbutton {
+	float:left;
+	margin-left:25px;
+	height:auto;
+	width:137px;
+}
+#Menustripe {
+	height:10px;
+	background-color:#81615a;
+}
+#Mainbody {
+	height:1800px;
+	background-color:#f7e8d9;
+}
+#Horseradish {
+	margin-left:340px;
+	padding-top:100px;
+	height:100px;
+}
+#Table {
+	margin-top: 40px;
+	margin-left: 440px;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#Footerstripe {
+	width:auto;
+	height:10px;
+	background-color:#81615a;
+}
+#Footer {
+	width:auto;
+	height:50px;
+	background-color:#ab8983;

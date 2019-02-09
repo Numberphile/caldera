@@ -1,0 +1,46 @@
+#Container {
+	width:1280px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+#Header {
+	width:auto;
+	height:500px;
+}
+#Barstripe {
+	width:auto;
+	height:10px;
+	background-color:#81615a;
+}
+#Mainbody {
+	height:800px;
+	background-color:#f7e8d9;
+}
+#Latestpage {
+	padding-top:50px;
+	margin-left:300px;
+	height:100;
+}
+#Archive {
+	margin-left:400px;
+	height:100px;
+}
+#About {
+	margin-left:400px;
+	height:100px;
+}
+#Links {
+	margin-left:400px;
+	height:100px;
+}
+#Footerstripe {
+	width:auto;
+	height:10px;
+	background-color:#81615a;
+}
+#Footer {
+	width:auto;
+	height:50px;
+	background-color:#ab8983;
+}
